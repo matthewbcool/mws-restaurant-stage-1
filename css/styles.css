@@ -140,10 +140,6 @@ nav h1 a {
   margin: 0;
   padding: 30px 15px 60px;
   text-align: center;
-<<<<<<< HEAD
-  
-=======
->>>>>>> fa6f479be27ac894bb2210c350429ac26d58b98a
 }
 #restaurants-list li {
   background-color: #fff;
@@ -280,4 +276,27 @@ nav h1 a {
 }
 #restaurant-hours td {
   color: #666;
+}
+
+/* ====================== Media Queries ====================== */
+
+@media screen and (min-width: 400px) {
+  #restaurants-list {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: #f3f3f3;
+    margin: 0;
+    padding: 30px 15px 60px;
+    text-align: center;
+  }
+}
+@media screen and (min-width: 400px) {
+  
+}
+@media screen and (min-width: 400px) {
+  
+}
+@media screen and (min-width: 400px) {
+  
 }
