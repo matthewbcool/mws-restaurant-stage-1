@@ -130,15 +130,11 @@ nav h1 a {
 }
 
 /* ====================== Restaurant Listing ====================== */
-<<<<<<< HEAD
 
 #restaurants-list {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-=======
-#restaurants-list {
->>>>>>> fa6f479be27ac894bb2210c350429ac26d58b98a
   background-color: #f3f3f3;
   list-style: outside none none;
   margin: 0;
